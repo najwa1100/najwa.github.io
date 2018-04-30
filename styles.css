@@ -1,0 +1,140 @@
+body { background: #808c8c url('bg.jpg');
+background-repeat: no-repeat	; 
+
+ padding-bottom: 65px;
+    width: 100%;
+
+ }
+
+
+
+
+a {
+	 color: #5582d6; 
+	 text-decoration: none; 
+	 
+}
+a:hover{
+	text-decoration: underline;
+}
+.con{
+	display: block;
+overflow: auto;
+  position: absolute;
+    top: 25px;
+	right: 25px;
+	bottom: 25px;
+	left: 25px;
+
+    border: 1px solid gray;
+	background:#ffe6f2	;
+	 margin: 0px 100x;
+	 padding: 10px 40px;
+	 padding-top: 35px; 
+	 
+	
+	
+	 border-bottom-right-radius: 8px; 
+	 border-bottom-left-radius: 8px;
+	 -webkit-border-bottom-left-radius: 8px; 
+	 -webkit-border-bottom-right-radius: 8px;
+	 -moz-border-radius-bottomleft: 8px; 
+	 -moz-border-radius-bottomright: 8px; 
+
+	
+}
+
+.nav{
+	font-size: 20px;
+}
+	
+.name{
+	
+	color:deeppink;
+	font-size:16px;
+	text-align: center;
+}
+.iup{
+	color:brown;
+	
+		font-size:16px;
+text-align: center;
+}
+.flag{
+	
+	text-align: center;
+}
+.wlcome h2{
+	
+font-size: 40px;
+}
+
+.wlcome p{
+	 color:#722222;
+	 font-size: 120%;
+}
+.wlcome ul {
+	 color:#722222;
+	 font-size: 120%;
+}
+
+.wlcome a{
+float: right;
+}
+.con2{
+ position: relative;
+    width: 90%;
+    height: 350px;
+    padding:  10px 10px;
+
+}
+
+.right {
+	text-align: right;
+   position: absolute;
+    right: 0;
+    width: 49%;
+    height: 300px;
+    	 padding: 10px 40px;
+
+	
+}
+.left{
+    position: absolute;
+   left:0;
+    width: 49%;
+        height: 120px;
+
+        top: 150px;
+
+}
+
+.resume h2 {
+text-align: center;
+color:red;
+font-size: 50px;
+text-decoration: underline;
+}
+
+.resume h4{
+text-align: center;
+}
+
+.resume h1{
+font-size: 40px;
+}
+.resume p{
+color:#722222;
+	 font-size: 120%;
+}
+.resume ul{
+color:#722222;
+	 font-size: 120%;
+
+}
+
+
+.contact{
+text-align: center;
+font-size: 50px;
+}
